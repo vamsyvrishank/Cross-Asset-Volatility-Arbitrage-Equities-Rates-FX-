@@ -39,7 +39,7 @@ The strategy focuses on **liquid, macro-sensitive asset classes** with observabl
 * Volatility responds more gradually due to policy anchoring
 * Reflects macro uncertainty through a different transmission channel
 
-### Foreign Exchange (Optional Extension)
+### Foreign Exchange
 
 * Encodes relative macro strength and global capital flows
 * Sensitive to risk regimes and cross-border stress
