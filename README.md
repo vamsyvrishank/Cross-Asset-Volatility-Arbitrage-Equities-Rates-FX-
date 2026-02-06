@@ -76,7 +76,7 @@ Supporting assumptions:
 
 ### 2. Data Acquisition & Exploration
 
-**EDA + Stylized Facts**
+**EDA**
 
 * Asset prices used to compute realized volatility
 * Volatility indices used as implied volatility proxies
