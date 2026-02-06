@@ -1,10 +1,3 @@
-
-
-Absolutely. Below is a **clean, professional, GitHub-ready README** written in a **systematic quant research style**. You can copy-paste this directly into `README.md`.
-It’s structured, concise, and reads like something a recruiter or researcher would *respect*, not skim.
-
----
-
 # Cross-Asset Volatility Arbitrage
 
 **A Systematic Relative-Value Strategy Across Equities, Rates, and FX**
@@ -17,7 +10,7 @@ Financial markets continuously price uncertainty about the future. While asset p
 
 This project studies **cross-asset volatility mispricing** and develops a systematic strategy to exploit temporary divergences in implied volatility across economically linked asset classes. The approach focuses on **relative value**, not directional forecasting, and is grounded in the mean-reverting behavior of volatility expectations.
 
----
+
 
 ## Motivation
 
@@ -28,7 +21,7 @@ This project studies **cross-asset volatility mispricing** and develops a system
 
 **Cross-asset volatility arbitrage seeks to exploit these transient inconsistencies in how uncertainty is priced across markets.**
 
----
+
 
 ## Asset Universe
 
@@ -53,7 +46,7 @@ The strategy focuses on **liquid, macro-sensitive asset classes** with observabl
 
 These assets are economically linked yet exhibit **distinct volatility dynamics**, making them suitable for relative-value analysis.
 
----
+
 
 ## Research Hypothesis
 
@@ -66,7 +59,7 @@ Supporting assumptions:
 * Extreme divergence in relative volatility expectations signals mispricing
 * Capital flows and information diffusion enforce long-run coherence
 
----
+
 
 ## Research Framework
 
@@ -79,7 +72,7 @@ Supporting assumptions:
 * Slower repricing in rates and FX volatility
 * Evidence of mean-reverting cross-asset volatility spreads
 
----
+
 
 ### 2. Data Acquisition & Exploration
 
@@ -94,7 +87,6 @@ Supporting assumptions:
   * Regime-dependent cross-asset correlations
   * Short-lived extreme volatility spreads
 
----
 
 ### 3. Signal Construction
 
@@ -107,7 +99,6 @@ Supporting assumptions:
 
 The signal represents **relative fear mispricing**, not absolute volatility levels.
 
----
 
 ### 4. Backtesting & Validation
 
@@ -125,7 +116,6 @@ Key metrics:
 * Tail risk exposure
 * Correlation to traditional risk premia
 
----
 
 ### 5. Risk Analysis
 
@@ -146,7 +136,6 @@ Risk controls include:
 * Time-based exits
 * Stress testing during crisis periods
 
----
 
 ### 6. Implementation Considerations
 
@@ -160,13 +149,11 @@ Risk controls include:
 
 Ignoring implementation realism can significantly overstate strategy performance.
 
----
 
 ## Key Takeaway
 
 This project reframes trading from predicting asset price direction to **analyzing how markets price uncertainty**. By exploiting relative volatility mispricing across economically linked asset classes, the strategy aims to capture structurally driven, mean-reverting inefficiencies in volatility expectations.
 
----
 
 ## Project Structure
 
@@ -187,7 +174,6 @@ This project reframes trading from predicting asset price direction to **analyzi
 ├── README.md
 ```
 
----
 
 ## Disclaimer
 
